@@ -4,11 +4,18 @@ Manufacturers are charging quite a bit for assembly of my original version along
 
 Parts
 -----
-- USB breakout board female https://www.amazon.com/dp/B09WCSF8FC?psc=1&ref_=cm_sw_r_cp_ud_ct_GT8ZEJJ0JSE9TSRHDTRX
-- 5.1 ohm resistor
+- USB breakout board female [Amazon](https://www.amazon.com/dp/B09WCSF8FC?psc=1&ref_=cm_sw_r_cp_ud_ct_GT8ZEJJ0JSE9TSRHDTRX), [Adafruit](https://www.adafruit.com/product/5180)
+- PH cable 5 wires 150mm long [Amazon](https://www.amazon.com/dp/B0BKSNJGQL?psc=1&ref_=cm_sw_r_cp_ud_ct_QFTQSGYQR8YCQEH24Z3N), [Adafruit](https://www.adafruit.com/product/5089) 
+- 5.1 ohm resistor 0603 [Amazon](https://www.amazon.com/dp/B0BJQGFHZ7?psc=1&ref_=cm_sw_r_cp_ud_ct_90NGV9MH37H2Z0C2DTHZ_1)
 - 3d printed bracket (recommend PETG)
-- PH cable 5 wires 150mm long 
-- Zip tie (x2)
+- Zip tie (x2) 3mm wide [Amazon](https://www.amazon.com/dp/B0925FZC9T?psc=1&ref_=cm_sw_r_cp_ud_ct_F9K9JJKBZKX57E94TZDZ)
+
+Tools
+-----
+- Soldering iron
+- Multimeter
+- Hot glue gun
+- 3d printer (or order parts from online service)
 
 Assembly 
 -----
@@ -22,4 +29,4 @@ Assembly
 Notes
 ----
 - Norbatouch has a different 3d printed part but same general instructions 
-- Soldering 5.1 ohm resistor is not the easiest thing to do recommend buying a board that already has it installed.  Or at least get the appropriate size one unlike me.  
+- Soldering 5.1 ohm resistor is not the easiest thing to do recommend buying a board that already has it installed

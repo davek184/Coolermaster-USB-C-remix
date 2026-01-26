@@ -8,8 +8,14 @@ Parts
 - PH cable 5 wires 150mm long [Amazon](https://www.amazon.com/dp/B0BKSNJGQL?psc=1&ref_=cm_sw_r_cp_ud_ct_QFTQSGYQR8YCQEH24Z3N), [Adafruit](https://www.adafruit.com/product/5089) 
 - 5.1 ohm resistor 0603 [Amazon](https://www.amazon.com/dp/B0BJQGFHZ7?psc=1&ref_=cm_sw_r_cp_ud_ct_90NGV9MH37H2Z0C2DTHZ_1)
 - 3d printed bracket (recommend PETG)
- - [STL with access hole](/assets/coolermaster-novatouch-usbc-bracket-accessHole.stl)
+ 
 - Zip tie (x2) 3mm wide [Amazon](https://www.amazon.com/dp/B0925FZC9T?psc=1&ref_=cm_sw_r_cp_ud_ct_F9K9JJKBZKX57E94TZDZ)
+
+3d print bracket
+-----
+Coolermaster Novatouch
+- [Bracket with access hole (recommended)](/assets/coolermaster-novatouch-usbc-bracket-accessHole.stl)
+- [Bracket without access hole](/assets/coolermaster-novatouch-usbc-bracket.stl)
 
 Tools
 -----

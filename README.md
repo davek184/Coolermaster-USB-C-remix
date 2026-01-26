@@ -34,7 +34,16 @@ Assembly
 - Test cable with multimeter to ensure there are no shorts!
 - Hot glue breakout board to 3d printed brack (tiny amount)
 - Zip tie cable to 3d print
-- Install in keyboard 
+- Install in keyboard
+
+Wiring
+----
+- Shield (Yellow)
+- D- (White)
+- D+ (Green)
+- GND (Black)
+- 5V (Red)
+
 
 Notes
 ----

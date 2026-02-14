@@ -30,7 +30,7 @@ Tools
 Assembly 
 -----
 - Solder cable to beakout board (Skip shield wire or combine it with ground)
-- Solder 5.1 ohm resistor if USB C to C cable compatibility desired (this is not an trivial solder job)
+- Solder 5.1 ohm resistor if USB C to C cable compatibility desired (this is not an trivial solder job).  [Simily solder job](https://electronics.stackexchange.com/questions/595590/jrc-b008-for-usb-c-microcontroller-power-supply/601047#601047)
 - Test cable with multimeter to ensure there are no shorts!
 - Hot glue breakout board to 3d printed brack (tiny amount)
 - Zip tie cable to 3d print

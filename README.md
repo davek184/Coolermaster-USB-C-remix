@@ -6,6 +6,16 @@ Manufacturers are charging a large setup fee for assembly of the [original versi
 
 ![Render](/assets/photoFinal.jpg)
 
+Wiring
+----
+- Blank/Shield (Yellow)
+- D- (White)
+- D+ (Green)
+- GND (Black)
+- 5V (Red)
+
+Note: Other Cooler master keyboards may have a different pinnout
+
 Parts
 -----
 - USB-C breakout board *(female)* [Amazon](https://www.amazon.com/dp/B09WCSF8FC?psc=1&ref_=cm_sw_r_cp_ud_ct_GT8ZEJJ0JSE9TSRHDTRX), [Adafruit](https://www.adafruit.com/product/5180)
@@ -42,15 +52,7 @@ Assembly
 - Hot glue breakout board to 3d printed bracket
 - Install in keyboard
 
-Wiring
-----
-- Shield (Yellow)
-- D- (White)
-- D+ (Green)
-- GND (Black)
-- 5V (Red)
 
-Note: Other Cooler master keyboards may have a different pinnout
 
 Notes
 ----

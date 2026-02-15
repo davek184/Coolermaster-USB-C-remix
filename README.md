@@ -38,8 +38,8 @@ Assembly
 - Solder 5.1 ohm resistor if USB C to C cable compatibility desired (this is not an trivial solder job).  [Similar solder details](https://electronics.stackexchange.com/questions/595590/jrc-b008-for-usb-c-microcontroller-power-supply/601047#601047)
 - Test cable with multimeter to ensure there are no shorts!
 - Test cable with keyboard
-- Push daughterboard into 3d print (use a flat head screwdriver and and the access hold in the bottom for alighnment). Dry fit to ensure in a good position.  
-- Hot glue breakout board to 3d printed brac
+- Push daughterboard into 3d print (use a flat head screwdriver and the access hold in the bottom for alighnment). Dry fit to ensure in a good position.  
+- Hot glue breakout board to 3d printed bracket
 - Install in keyboard
 
 Wiring
@@ -54,5 +54,5 @@ Note: Other Cooler master keyboards may have a different pinnout
 
 Notes
 ----
-- Norbatouch has a different 3d printed part but same general instructions
-- Soldering 5.1 ohm resistor is not the easiest thing to do recommend buying a board that already has it installed
+- Norbatouch unsure of compatibility
+- Soldering 5.1 ohm resistor is not the easiest thing to do recommend buying a board that already has it installed. Easier with a larger 0805 size resistor vs the very small 0402.

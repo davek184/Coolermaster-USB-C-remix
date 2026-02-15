@@ -4,6 +4,8 @@ USB-C daughterboard for Cooler Master NovaTouch keyboards
 
 Manufacturers are charging a large setup fee for assembly of the [original version](https://github.com/davek184/CoolerMasterUsbC) along with tariffs, generally prefer the original version, but remixing for a more affordable option.
 
+![Render](/assets/photoFinal.jpg)
+
 Parts
 -----
 - USB-C breakout board *(female)* [Amazon](https://www.amazon.com/dp/B09WCSF8FC?psc=1&ref_=cm_sw_r_cp_ud_ct_GT8ZEJJ0JSE9TSRHDTRX), [Adafruit](https://www.adafruit.com/product/5180)
@@ -21,14 +23,14 @@ Tools
 3d Print Bracket
 -----
 Cooler Master NovaTouch
-- [Bracket with access hole (recommended)](/assets/coolermaster-novatouch-usbc-bracket-accessHole.stl)
-- [Bracket without access hole](/assets/coolermaster-novatouch-usbc-bracket.stl)
+- [Bracket with access hole (recommended)](/3d/coolermaster-novatouch-usbc-bracket-accessHole.stl)
+- [Bracket without access hole](/3d/coolermaster-novatouch-usbc-bracket.stl)
 Printing
 - Orientation: Vertical
 - Brim: Full or Mouse Ear
 - Material: PETG *suggested*
 
-([TinkerCad design](https://www.tinkercad.com/things/gupjL9dNZFy-coolermaster-usb-c-bracket?sharecode=hrGqW4dKQAlAj4FP0EM5Q-o44ddQxqJ0IT2FK_grpPk)
+[TinkerCad design](https://www.tinkercad.com/things/gupjL9dNZFy-coolermaster-usb-c-bracket?sharecode=hrGqW4dKQAlAj4FP0EM5Q-o44ddQxqJ0IT2FK_grpPk)
 
 Assembly 
 -----
